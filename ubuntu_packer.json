@@ -7,17 +7,17 @@
   "builders": [{
     "type": "azure-arm",
 
-    "client_id": "76ec9798-7727-4683-a7a9-fb5729ad6796",
-    "client_secret": "-jTE~2YCv-Ruh2Z~FCEBL1ey.E7ejT46T9",
-    "subscription_id": "22b61291-240d-4558-aeee-f486b076c403",
+    "client_id": "80650849-c33f-47c8-a2c8-0b83bc551fe6",
+    "client_secret": "p8f~wsY3eG2Yk_d~T9upXnA_Ll47B61Uij",
+    "subscription_id": "f8d6e01e-84d5-4b7e-9335-0eb300351b57",
 
     "os_type": "Linux",
     "image_publisher": "Canonical",
     "image_offer": "UbuntuServer",
     "image_sku": "18.04-LTS",
 
-    "managed_image_resource_group_name": "devopsdemo",
-    "managed_image_name": "thangamdevopsImage",
+    "managed_image_resource_group_name": "DevOps",
+    "managed_image_name": "SushenaImage",
 
     "azure_tags": {
         "dept": "engineering",
